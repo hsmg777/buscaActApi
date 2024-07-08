@@ -1,0 +1,6 @@
+Flask
+Flask-Smorest
+Flask-CORS
+SQLAlchemy
+pyodbc
+marshmallow
